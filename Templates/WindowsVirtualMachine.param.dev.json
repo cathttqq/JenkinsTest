@@ -3,19 +3,19 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "cawadsciisstrg005"
+      "value": "cawadsciisstrg5"
     },
     "vmLocation": {
       "value": "West US"
     },
     "vmName": {
-      "value": "cawadscvm05"
+      "value": "cawadscvm5"
     },
     "adminUserName": {
       "value": "vmuser"
     },
     "dnsName": {
-      "value": "cawadscdns05"
+      "value": "cawadscdns5"
     },
     "vmSize": {
       "value": "Standard_A3"
